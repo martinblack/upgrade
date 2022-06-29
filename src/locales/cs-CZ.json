@@ -1,0 +1,168 @@
+{
+  "screens": {
+    "home": {
+      "featuredEvents": "Aktuální události",
+      "latestClips": "Nejnovější klipy"
+    },
+    "camera": {
+      "selectEvent": "Vyberte událost",
+      "flipPhoneMessage": "Natáčení na šířku zvyšuje šanci, že se záběr použije.",
+      "permissions": "Je potřeba povolit pořizování audia a videa.",
+      "recordingStopedTitle": "Natáčení videa bylo zastaveno",
+      "recordingStopedBody": "Pokud chcete pokračovat, začněte natáčet další video."
+    },
+    "profile": {
+      "title": "Můj profil",
+      "firstName": "Křestní jméno",
+      "lastName": "Příjmení",
+      "publicMentions": "Uvedení jména",
+      "publicMentionsDescription": "Vaše jméno může být uvedeno v titulcích klipů generovaných pomocí GetMoments.",
+      "data": "Automatický upload přes mobilní data",
+      "dataDescription": "Natočená videa se ihned uploadnou s využitím mobilních dat. Pokud tuto možnost nevyberete, tak se upload provede až po připojení k Wi-Fi.",
+      "socialMedia": "Účty sociálních sítí",
+      "save": "Uložit",
+      "cancel": "Zrušit",
+      "about": "Více o GetMoments →",
+      "terms": "Smluvní podmínky",
+      "logout": "Odhlásit"
+    },
+    "login": {
+      "title": "Přihlášení do aplikace",
+      "signUpTitle": "Registrace",
+      "emailLogin": "Registrace nebo přihlášení pomocí e-mailu",
+      "socialLogin": "← Přihlášení přes sociální sítě",
+      "signIn": "Přihlášení",
+      "signUp": "Registrace",
+      "existingUser": "Už máte účet?",
+      "newUser": "Ještě nemáte účet?",
+      "terms": "Smluvní podmínky",
+      "email": "E-mail",
+      "password": "Heslo",
+      "firstName": "Křestní jméno",
+      "lastName": "Příjmení",
+      "signUpNow": "Registrace",
+      "login": "Přihlášení",
+      "verification": "Poslali jsme potvrzovací email. Prosím, otevřete ho a pokračujte podle instrukcí.",
+      "success": "Přihlášení proběhlo úspěšně"
+    },
+    "events": {
+      "by": "",
+      "clips": "Klipy",
+      "noClips": "Nemáte žádné klipy",
+      "header": {
+        "all": "Všechny události"
+      },
+      "unfollowEvent": "Odhlásit se z události",
+      "finalCuts": "Finální sestřihy",
+      "myClips": "Moje klipy",
+      "total": "Celkem",
+      "inviteMembers": "Pozvat",
+      "creators": "Autoři"
+    },
+    "terms": {
+      "accept": "Přijmout",
+      "cancel": "Zrušit",
+      "introTitle": "Podmínky použití aplikace GetMoments",
+      "introBody": "Jsme 1000cams s.r.o., se sídlem Kaprova 42/14, Staré Město, Praha 1, 110 00, IČO XYZ, zapsaní u Městského soudu v Praze, oddíl C, vložka 237802 a provozujeme aplikaci 1000cams.\n \nDíky za její využívání, respektování těchto podmínek a udělení licence k vámi natočenému obsahu.",
+      "title1": "I. Jak naše aplikace funguje?",
+      "body1Android": "1. Aplikaci si stáhněte prostřednictvím Google Play Store nebo Apple Store.\n \n2. Stažení a použití je zcela zdarma.\n \n3. Aplikaci jde používat v operačním systému iOS i Android.\n \n4. Pro použití aplikace je nezbytné, abyste nám povolili přístup k vašemu fotoaparátu a mikrofonu.\n \n5. Pro použití aplikace v souladu s těmito podmínkami vám udělujeme nevýhradní bezplatnou licenci.",
+      "body1iOS": "1. Aplikaci si stáhněte prostřednictvím Apple Store.\n \n2. Stažení a použití je zcela zdarma.\n \n3. Aplikaci jde používat v operačním systému iOS.\n \n4. Pro použití aplikace je nezbytné, abyste nám povolili přístup k vašemu fotoaparátu a mikrofonu.\n \n5. Pro použití aplikace v souladu s těmito podmínkami vám udělujeme nevýhradní bezplatnou licenci.",
+      "title2": "II. Možnost použití vámi natočeného obsahu (licence)",
+      "body2": "1. Video, které natočíte, je volné pro vaše použití. Zároveň nám dáváte právo video užít pro naše účely, bez časového, množstevního a územního omezení, offline i online způsobem, v plné šíři, kterou uvádí autorský zákon, pro komerční i nekomerční účely.\n \n2. Video můžeme zveřejnit, upravit, spojit s jinými autorskými díly a výstupy, případně značkami. U videa nemusíme uvádět vaše jméno.\n \n3. Tato práva nám udělujete zdarma, tedy bez nároku na finanční odměnu. Video nemáme povinnost použít.\n \n4. Všechna uvedená a udělená práva můžeme částečně nebo v plné šíři převést i na třetí osoby, tedy tzv. podlicencovat nebo postoupit. Tyto třetí osoby mohou video použít také pro komerční účely.\n \n5. Nahrávaný obsah nesmí porušovat nebo zasahovat do práv (například autorských, osobnostních) třetích osob. Ničeho se ale nebojte: tam, kde to uvádíme, je použití naší aplikace pro zachycení daného vystoupení právně podchycené a tedy v pořádku.",
+      "title3": "III. Ochrana osobních údajů a soukromí",
+      "body3": "1. Může se stát, že budete na videu, které bude na akci pořízené, zachyceni. V takovém případě dochází ke zpracování vašich osobních údajů – zachycení vaší podoby na videu.\n \n2. Takové záběry se snažíme vždy maximálně anonymizovat, ledaže ze záběru vyplývá, že si přejete být zachyceni (například stylizací před kamerou apod.).\n \n3. Zpracování v případě velkých společenských a kulturních akcí umožňuje tzv. oprávněný zájem, proti kterému ale můžete vznést námitku: kontaktujte v takovém případě organizátory akce, pořizovatele záběru, případně nás.\n \n4. Záběry zpracováváme po dobu 5 let pro umělecké a komerční účely (například sponzorů akce apod.). Pokud se jedná o archivaci akce (a tedy historické účely), pak po dobu přiměřenou těmto archivačním účelům.\n \n5. V rámci zřízení uživatelského profilu zpracováváme vaši e-mailovou adresu, jméno a pokud si nahrajete fotografii (dobrovolné), tak i vaši fotku. Pokud si účet zakládáte za pomoci propojení účtu se sociálními sítěmi, zpracováváme pro zřízení a propojení účtů i vaše veřejné profilové informace z dané sítě. Takové zpracování je nutné pro poskytnutí naší služby. Poskytnutí údajů je čistě na vás - bez nich vám ale naši aplikaci nemůžeme zpřístupnit a tedy službu poskytnout.\n \n6. Na vaši e-mailovou adresu vám (pokud nám to nezakážete) čas od času napíšeme, jaké novinky se v našem světě odehrávají. Takové zpracování nám umožňuje zákon (§ 7 odst. 3 zákona o službách informační společnosti). Do novinek vás zařadíme na dobu 2 let od posledního poskytnutí naší služby. Z novinek se můžete kdykoliv odhlásit.\n \n7. Naši zpracovatelé jsou:\n \n  -  dodavatelé IT řešení a hostingových služeb,\n \n  -  marketingoví mágové, které používáme pro konzultace a poskytování jiných marketingových služeb,\n \n  -  osoby, které se podílejí na organizaci kulturní akce a jejich dodavatelé.\n \nVidea mohou být dostupná na sociálních sítích (například Facebook, Instagram, TikTok, Youtube) v souladu s jejich podmínkami.\n \n8. Videa mohou dále použít jiní tzv. správci, například organizátoři akce, sponzoři atd. – vždy v souladu s jejich podmínkami zpracování osobních údajů.\n \n9. Osobní údaje zůstávají na území Evropské unie. Pokud používáme platformy, které jsou mimo Evropskou unii, pracujeme s nimi v souladu s právními předpisy, zejména nařízením GDPR.\n \n10. Nemáme jmenovaného pověřence a data nepoužíváme k profilování.",
+      "body3withLink1": "11. Nařízení GDPR vám dává mimo jiné právo obrátit se na nás a chtít informace, jaké vaše osobní údaje zpracováváme, vyžádat si u nás přístup k těmto údajům a nechat je aktualizovat nebo opravit, popřípadě požadovat omezení zpracování, můžete požadovat kopii zpracovávaných osobních údajů, požadovat po nás v určitých situacích výmaz osobních údajů a v určitých případech máte právo na jejich přenositelnost. Proti zpracování na základě oprávněného zájmu můžete vznést námitku. Pokud si myslíte, že s daty nenakládáme správně, máte právo podat stížnost u ",
+      "body3withLink2": "Úřadu pro ochranu osobních údajů",
+      "body3withLink3": ", případně se se svými nároky obrátit na soud.",
+      "title4": "IV. Zakázané použití naší aplikace",
+      "body4": "1. Naši aplikaci nemůžete využívat pro jiné účely, než které uvádíme, zejména ne pro protiprávní nebo konkurenční účely. Pokud budete aplikaci využívat pro získání konkurenční výhody (například využijete jedinečné principy, na kterých je aplikace postavená), budete porušovat naše autorská práva a tyto podmínky, také může jít o nekalou soutěž.\n \n2. Zakazujeme chování, které ohrožuje nebo omezuje nebo má jiný negativní vliv na stabilitu, funkčnost a dostupnost naší aplikace.",
+      "title5": "V. Závěrem",
+      "body5": "1. Aplikaci, její funkce nebo podmínky jejího použití můžeme kdykoliv změnit.\n \n2. Pokud je pro správné použití nové verze aplikace zapotřebí aktualizace softwaru, dáme vám vědět. Nezapomeňte si v takovém případě aplikaci aktualizovat.\n \n3. Naše vztahy se řídí českým právem, příslušné k rozhodování příslušných sporů jsou české soudy. Naše vztahy se řídí zejména autorským zákonem a občanským zákoníkem."
+    },
+    "clips": {
+      "loadMore": "Další",
+      "noClips": "Nemáte žádné klipy"
+    }
+  },
+  "user": {
+    "statuses": {
+      "member": "Člen",
+      "invited": "Pozvaný",
+      "none": "Nic"
+    }
+  },
+  "tabs": {
+    "home": "Domů",
+    "events": "Události",
+    "clips": "Klipy",
+    "profile": "Profil"
+  },
+  "video": {
+    "upload": "Upload",
+    "cancel": "Zrušit"
+  },
+  "dateFormats": {
+    "today": "Dnes",
+    "yesterday": "Včera",
+    "year": "yyyy",
+    "date": "d. MMMM",
+    "time": "HH:mm",
+    "full": "d. MMMM yyyy HH:mm",
+    "shortMonthDayYear": "d. M. yyyy",
+    "shortMonthYear": "LLLL yyyy",
+    "shortDate": "d. MMMM"
+  },
+  "errors": {
+    "verification": "Verifikujte svůj e-mail.",
+    "emailRequired": "E-mail je povinné pole.",
+    "emailInvalid": "Neplatný e-mail.",
+    "passwordRequired": "Heslo je povinné pole.",
+    "passwordInvalid": "Nesprávné heslo.",
+    "passwordWeak": "Heslo musí mít 6-20 znaků a musí obsahovat aspoň jednu číslici, jedno velké a jedno malé písmeno.",
+    "firstNameRequired": "Křestní jméno je povinné pole.",
+    "lastNameRequired": "Příjmení je povinné pole.",
+    "auth/email-already-in-use": "Uživatel s tímto e-mailem už existuje.",
+    "auth/user-not-found": "Uživatel s tímto e-mailem neexistuje.",
+    "auth/wrong-password": "Nesprávné heslo.",
+    "auth/account-exists-with-different-credential": "Uživatel s tímto e-mailem již existuje. Zvolte jiný způsob přihlášení",
+    "auth/network-request-failed": "Chyba spojení.",
+    "connectToInternet": "Připojte se k internetu.",
+    "something": "Něco se nepovedlo.",
+    "loginFailed": "Přihlášení se nezdařilo. Opakujte akci nebo kontaktuje vývojáře aplikace."
+  },
+  "notification": {
+    "uploaded": "Nahráno",
+    "pause": "Přerušit",
+    "resume": "Pokračovat",
+    "starting": "Začínám...",
+    "pausing": "Přerušuji...",
+    "resuming": "Pokračuji...",
+    "cancel": "Zrušit",
+    "uploadTitle": "Upload nahrávek",
+    "unuploadedRecordings": "Máte nahrávky, které nejsou uploadnuté.",
+    "unuploadedRecordingsDesc": "Otevřete aplikaci pro zvýšení rychlosti uploadu."
+  },
+  "dialog": {
+    "uploadTitle": "Nahrávám – {{value}} % hotovo...",
+    "hide": "Skrýt"
+  },
+  "alert": {
+    "cannotUpload": "Nelze provést upload",
+    "cannotUploadDesc": "Pro upload videa se přihlašte.",
+    "cannotDelete": "Nelze smazat",
+    "cannotDeleteDesc": "Během uploadu nelze video smazat.",
+    "cannotLogout": "Nelze odhlásit",
+    "cannotLogoutDesc": "Během uploadu nelze uživatele odhlásit."
+
+  },
+  "header": {
+    "myVideos": "Moje videa",
+    "allVideos": "Všechna videa",
+    "allEvents": "Všechny události"
+  },
+  "signInButtons": {
+    "facebook": "Přihlásit se přes Facebook",
+    "google": "Přihlásit se přes Google"
+  },
+  "noEvents": "Momentálně nejsou žádné události"
+}
